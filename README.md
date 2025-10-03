@@ -41,3 +41,4 @@ Task Manager
 Enter your choice: 1
 Enter task description: Finish Kotlin assignment
 Task added: Finish Kotlin assignment
+Video link: https://youtu.be/Tz6bCW9qhz0
